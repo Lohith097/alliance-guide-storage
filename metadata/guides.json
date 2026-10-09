@@ -1,1 +1,28 @@
-[]
+[
+  {
+    "id": "1791553242581-uop5s5",
+    "title": "Power BI - Master Exam Blueprint & MCQ Guide",
+    "description": "Master the PL-300 exam with this comprehensive Power BI blueprint. Covers ETL, data modeling, DAX, visualizations, and UI navigation with high-priority MCQs, compressed study notes, and a detailed verify list.",
+    "category": "audit-course",
+    "semester": "3",
+    "tags": [
+      "power bi",
+      "pl-300",
+      "mcq",
+      "study guide",
+      "data analytics",
+      "dax",
+      "etl",
+      "coursera",
+      "exam prep"
+    ],
+    "fileName": "1791553240463_FINAL_PowerBI_Complete_Exam_Study_Guide.pdf",
+    "pdfPath": "guides/audit-course/1791553240463_FINAL_PowerBI_Complete_Exam_Study_Guide.pdf",
+    "coverPath": "covers/1791553241532_pb.jpeg",
+    "coverImage": "https://raw.githubusercontent.com/Lohith097/alliance-guide-storage/main/covers/1791553241532_pb.jpeg",
+    "downloadUrl": "https://raw.githubusercontent.com/Lohith097/alliance-guide-storage/main/guides/audit-course/1791553240463_FINAL_PowerBI_Complete_Exam_Study_Guide.pdf",
+    "rawUrl": "https://raw.githubusercontent.com/Lohith097/alliance-guide-storage/main/guides/audit-course/1791553240463_FINAL_PowerBI_Complete_Exam_Study_Guide.pdf",
+    "uploadedAt": "2026-10-09T13:40:42.581Z",
+    "fileSize": 184316
+  }
+]
